@@ -1,0 +1,13 @@
+D:\Desktop\MyMusicBox\MyMusicBox\bin\Debug\MyMusicBox.exe.config
+D:\Desktop\MyMusicBox\MyMusicBox\obj\Debug\Interop.WMPLib.dll
+D:\Desktop\MyMusicBox\MyMusicBox\obj\Debug\AxInterop.WMPLib.dll
+D:\Desktop\MyMusicBox\MyMusicBox\obj\Debug\Kuwo.csproj.ResolveComReference.cache
+D:\Desktop\MyMusicBox\MyMusicBox\obj\Debug\MyMusicBox.exe
+D:\Desktop\MyMusicBox\MyMusicBox\obj\Debug\MyMusicBox.pdb
+D:\Desktop\MyMusicBox\MyMusicBox\bin\Debug\MyMusicBox.exe
+D:\Desktop\MyMusicBox\MyMusicBox\bin\Debug\MyMusicBox.pdb
+D:\Desktop\MyMusicBox\MyMusicBox\bin\Debug\Interop.WMPLib.dll
+D:\Desktop\MyMusicBox\MyMusicBox\bin\Debug\AxInterop.WMPLib.dll
+D:\Desktop\MyMusicBox\MyMusicBox\obj\Debug\MyMusicBox.fraMusicBox.resources
+D:\Desktop\MyMusicBox\MyMusicBox\obj\Debug\MyMusicBox.Properties.Resources.resources
+D:\Desktop\MyMusicBox\MyMusicBox\obj\Debug\Kuwo.csproj.GenerateResource.Cache
